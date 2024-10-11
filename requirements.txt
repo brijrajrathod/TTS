@@ -39,7 +39,7 @@ hangul_romanize
 # gruut+supported langs
 gruut[de,es,fr]==2.2.3
 # deps for korean
-jamo
+jamo>=0.4.1
 nltk
 g2pkk>=0.1.1
 # deps for bangla
