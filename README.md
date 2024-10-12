@@ -1,3 +1,13 @@
+⚠️ **PROJECT STATUS: INACTIVE** ⚠️
+
+Coqui has officially shut down operations as of December 2023/January 2024. This repository is no longer actively maintained.
+
+- For more details, see [Issue #3488: Next steps after shutdown](https://github.com/coqui-ai/TTS/issues/3488)
+- For proposed next steps and ongoing community discussion, see [Issue #4022: Addressing Ongoing Community Confusion](https://github.com/coqui-ai/TTS/issues/4022)
+
+We appreciate your interest, but please note that new issues, pull requests, and feature requests may not be addressed.
+
+Thank you to all contributors and users who supported this project.
 
 ## 🐸Coqui.ai News
 - 📣 ⓍTTSv2 is here with 16 languages and better performance across the board.
