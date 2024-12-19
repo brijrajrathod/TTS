@@ -1,4 +1,4 @@
-dependencies = [pip install -e .[all,dev,notebooks]
+dependencies = 
     'torch', 'gdown', 'pysbd', 'gruut', 'anyascii', 'pypinyin', 'coqpit', 'mecab-python3', 'unidic-lite'
 ]
 import torch
