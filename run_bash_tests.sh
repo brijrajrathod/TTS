@@ -1,4 +1,4 @@
-set -e
+set -e.[all,dev,notebooks]
 TF_CPP_MIN_LOG_LEVEL=3
 
 # runtime bash based tests
