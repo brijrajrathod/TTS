@@ -1,3 +1,5 @@
+## THIS REPO IS NO LONGER MAINTAINED.
+### Go to https://github.com/idiap/coqui-ai-TTS for the currently maintained version.
 
 ## 🐸Coqui.ai News
 - 📣 ⓍTTSv2 is here with 16 languages and better performance across the board.
