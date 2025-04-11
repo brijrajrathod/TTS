@@ -4,7 +4,7 @@
 First, you need to install TTS. We recommend using PyPi. You need to call the command below:
 
 ```bash
-$ pip install TTS
+$ pip install coqui-tts
 ```
 
 After the installation, 2 terminal commands are available.
