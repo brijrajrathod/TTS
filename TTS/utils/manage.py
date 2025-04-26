@@ -262,6 +262,8 @@ class ModelManager(object):
         if "fairseq" in model_name:
             model_type = "tts_models"
             lang = model_name.split("/")[1]
+            dataset = "multi-dataset"
+            model = model_name
             model_item = {
                 "model_type": "tts_models",
                 "license": "CC BY-NC 4.0",
